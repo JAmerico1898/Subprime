@@ -1,0 +1,8 @@
+streamlit==1.28.1
+pandas==2.1.1
+numpy==1.26.0
+plotly==5.17.0
+matplotlib==3.8.0
+networkx==3.2.1
+pillow==10.0.1
+bokeh==2.4.3
