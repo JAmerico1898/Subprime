@@ -8,7 +8,7 @@ Um aplicativo Streamlit interativo que oferece uma análise aprofundada da Crise
 
 ## 📊 Demonstração
 
-subprime_qr.png
+(https://github.com/JAmerico1898/Subprime/blob/db82a8d4a091885b428493878686517f38bd79f8/subprime_qr.png)
 
 ## 🚀 Características
 
