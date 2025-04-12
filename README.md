@@ -10,9 +10,6 @@ Um aplicativo Streamlit interativo que oferece uma análise aprofundada da Crise
 
 ![image](https://github.com/user-attachments/assets/5c5cfdb3-3f83-4991-8b70-eb9b91b2bf96)
 
-
-(https://github.com/JAmerico1898/Subprime/blob/db82a8d4a091885b428493878686517f38bd79f8/subprime_qr.png)
-
 ## 🚀 Características
 
 O aplicativo oferece uma experiência educacional completa, dividida em 7 seções interativas:
