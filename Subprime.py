@@ -199,8 +199,8 @@ elif page == "Linha do Tempo":
     # Dados da linha do tempo para cada período
     timeline_data = {
         "Antecedentes (2001-2006)": [
-            {"date": "2001", "description": "Após o estouro da bolha das empresas ponto-com, o Federal Reserve reduz as taxas de juros para apenas 1% para estimular a economia."},
-            {"date": "2001-2003", "description": "Início da desregulamentação financeira. O setor bancário começa a expandir agressivamente o crédito imobiliário."},
+            {"date": "2001", "description": "Após o estouro da bolha das empresas ponto-com, o Federal Reserve reduz as taxas de juros para próximo de zero para estimular a economia."},
+            {"date": "2001-2003", "description": "Baixas taxas de juros estimularam o setor bancário a expandir agressivamente o crédito imobiliário."},
             {"date": "2003-2006", "description": "Proliferação dos empréstimos subprime (alto risco) e instrumentos financeiros complexos como CDOs (Collateralized Debt Obligations) e MBS (Mortgage-Backed Securities)."},
             {"date": "2001-2006", "description": "Os preços dos imóveis sobem em média 85% nos EUA, criando uma bolha especulativa no mercado imobiliário."}
         ],
@@ -216,12 +216,12 @@ elif page == "Linha do Tempo":
             {"date": "Out 2007", "description": "UBS e Citigroup anunciam perdas bilionárias relacionadas ao mercado subprime."},
             {"date": "Dez 2007", "description": "Federal Reserve cria a Term Auction Facility (TAF) para fornecer liquidez ao sistema bancário."},
             {"date": "Jan-Fev 2008", "description": "Grandes bancos globais anunciam perdas massivas. O Fed corta as taxas de juros agressivamente."},
-            {"date": "Mar 2008", "description": "Bear Stearns, quinto maior banco de investimento dos EUA, é vendido para o JPMorgan Chase com ajuda do Federal Reserve por apenas $10 por ação, bem abaixo do valor de mercado anterior."}
+            {"date": "Mar 2008", "description": "Bear Stearns, quinto maior banco de investimento dos EUA, é vendido para o JPMorgan Chase com ajuda do Federal Reserve por apenas $10 por ação, totalizando cerca de $1 bilhão, bem abaixo do valor de mercado anterior."}
         ],
         "Auge da Crise (2008)": [
             {"date": "Set 2008 (dia 7)", "description": "O governo americano assume o controle das empresas Fannie Mae e Freddie Mac, gigantes do mercado hipotecário."},
             {"date": "Set 2008 (dia 15)", "description": "Lehman Brothers, quarto maior banco de investimento dos EUA, declara falência. Este é considerado o momento mais dramático da crise."},
-            {"date": "Set 2008 (dia 16)", "description": "A seguradora AIG recebe resgate de $85 bilhões do governo americano."},
+            {"date": "Set 2008 (dia 16)", "description": "A seguradora AIG recebe resgate de $180 bilhões do governo americano. O maior resgate da crise"},
             {"date": "Set 2008 (dias 16-20)", "description": "Pânico nos mercados globais. Congelamento do crédito interbancário. Corridas bancárias em várias instituições."},
             {"date": "Out 2008", "description": "Congresso americano aprova o TARP (Troubled Asset Relief Program) de $700 bilhões para comprar ativos tóxicos e recapitalizar bancos."},
             {"date": "Nov-Dez 2008", "description": "Os EUA entram oficialmente em recessão. A taxa de desemprego dispara. Resgates às montadoras americanas."}
@@ -739,7 +739,7 @@ elif page == "Impacto Global":
             y='Dívida (% do PIB)', 
             color='Período',
             barmode='group',
-            color_discrete_map={'2007': '#4CAF50', '2010': '#FF5722', 'Aumento': '#F44336'},
+            color_discrete_map={'2007': '#4CAF50', '2010': '#FF5722', 'Aumento': 'orange'},
             title='Aumento da Dívida Pública entre 2007-2010 devido aos Resgates e Estímulos Econômicos',
             height=600
         )
