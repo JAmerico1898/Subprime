@@ -124,9 +124,9 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("""
 **Sobre o aplicativo**
 
-Este aplicativo foi desenvolvido como material didático para aulas sobre crises bancárias e financeiras.
+Este aplicativo foi desenvolvido como material didático para aulas sobre crises financeiras.
 
-Autor: Professor de Finanças especializado em crises bancárias
+© 2025 - Prof. José Américo – Coppead
 """)
 
 # Conteúdo da página de Introdução
@@ -941,9 +941,9 @@ elif page == "Respostas Regulatórias":
         
         | Medida | Ano | Objetivos Principais | Impactos |
         |--------|-----|----------------------|----------|
-        | **Lei Dodd-Frank** | 2010 | • Maior supervisão de instituições sistemicamente importantes<br>• Criação do Financial Stability Oversight Council<br>• Regulação de derivativos de balcão<br>• Criação do Consumer Financial Protection Bureau<br>• Regra Volcker (limita proprietary trading) | • Aumento de requisitos de capital para bancos<br>• Maior transparência no mercado de derivativos<br>• Restrições às atividades especulativas dos bancos<br>• Proteção aprimorada ao consumidor financeiro |
-        | **Teste de Estresse** | 2009-atual | • Avaliar capacidade dos bancos de resistir a cenários adversos<br>• Identificar vulnerabilidades sistêmicas | • Fortalecimento da resiliência bancária<br>• Maior transparência sobre riscos<br>• Base para exigências de capital adicionais |
-        | **Regras de Liquidez** | 2013-2015 | • Índice de Cobertura de Liquidez (LCR)<br>• Índice de Financiamento Estável Líquido (NSFR) | • Redução da vulnerabilidade a choques de liquidez<br>• Menor dependência de financiamento de curto prazo |
+        | **Lei Dodd-Frank** | 2010 | • Maior supervisão de instituições sistemicamente importantes;  • Criação do Financial Stability Oversight Council;  • Regulação de derivativos de balcão;  • Criação do Consumer Financial Protection Bureau;  • Regra Volcker (limita proprietary trading) | • Aumento de requisitos de capital para bancos;  • Maior transparência no mercado de derivativos;  • Restrições às atividades especulativas dos bancos;  • Proteção aprimorada ao consumidor financeiro |
+        | **Teste de Estresse** | 2009-atual | • Avaliar capacidade dos bancos de resistir a cenários adversos;  • Identificar vulnerabilidades sistêmicas | • Fortalecimento da resiliência bancária;  • Maior transparência sobre riscos;  • Base para exigências de capital adicionais |
+        | **Regras de Liquidez** | 2013-2015 | • Índice de Cobertura de Liquidez (LCR);  • Índice de Financiamento Estável Líquido (NSFR) | • Redução da vulnerabilidade a choques de liquidez;  • Menor dependência de financiamento de curto prazo |
         """)
         
         st.markdown("""
@@ -966,9 +966,9 @@ elif page == "Respostas Regulatórias":
         
         | Medida | Ano | Objetivos Principais | Impactos |
         |--------|-----|----------------------|----------|
-        | **União Bancária** | 2012-2014 | • Mecanismo Único de Supervisão (SSM)<br>• Mecanismo Único de Resolução (SRM)<br>• Sistema de Garantia de Depósitos | • Supervisão centralizada dos maiores bancos europeus<br>• Redução do vínculo banco-soberano<br>• Processo de resolução bancária harmonizado |
-        | **CRD IV/CRR** | 2013 | • Implementação do Basileia III na Europa<br>• Requisitos de capital mais rigorosos<br>• Limitação dos bônus bancários | • Aumento do capital regulatório<br>• Introdução de buffer de conservação e contracíclico<br>• Controles sobre remuneração do setor financeiro |
-        | **MiFID II/MiFIR** | 2018 | • Maior transparência nos mercados financeiros<br>• Proteção ao investidor aprimorada<br>• Regulação de trading de alta frequência | • Regras mais rígidas de execução de ordens<br>• Melhoria na formação de preços<br>• Redução de conflitos de interesse |
+        | **União Bancária** | 2012-2014 | • Mecanismo Único de Supervisão (SSM);  • Mecanismo Único de Resolução (SRM);  • Sistema de Garantia de Depósitos | • Supervisão centralizada dos maiores bancos europeus;  • Redução do vínculo banco-soberano;  • Processo de resolução bancária harmonizado |
+        | **CRD IV/CRR** | 2013 | • Implementação do Basileia III na Europa;  • Requisitos de capital mais rigorosos;  • Limitação dos bônus bancários | • Aumento do capital regulatório;  • Introdução de buffer de conservação e contracíclico;  • Controles sobre remuneração do setor financeiro |
+        | **MiFID II/MiFIR** | 2018 | • Maior transparência nos mercados financeiros;  • Proteção ao investidor aprimorada;  • Regulação de trading de alta frequência | • Regras mais rígidas de execução de ordens;  • Melhoria na formação de preços;  • Redução de conflitos de interesse |
         """)
         
         st.markdown("""
@@ -991,9 +991,9 @@ elif page == "Respostas Regulatórias":
         
         | Medida | Ano | Objetivos Principais | Impactos |
         |--------|-----|----------------------|----------|
-        | **Basileia III** | 2010-2022 | • Aumento na qualidade e quantidade do capital<br>• Introdução de buffer contracíclico<br>• Limitação da alavancagem<br>• Padrões de liquidez globais | • Capital Tier 1 aumentado de 4% para 6%<br>• Introdução do índice de alavancagem de 3%<br>• Padrões de gestão de risco aprimorados<br>• Sistema financeiro global mais resiliente |
-        | **G-SIBs/D-SIBs** | 2011-2012 | • Identificação de bancos sistêmicos globais e domésticos<br>• Requisitos adicionais para instituições críticas | • Capital adicional para bancos sistemicamente importantes<br>• Planos de recuperação e resolução<br>• Supervisão mais intensa |
-        | **FSB** | 2009 | • Coordenação internacional de regulação financeira<br>• Monitoramento de riscos sistêmicos<br>• Implementação de reformas do G20 | • Maior coordenação regulatória global<br>• Revisão por pares das reformas nacionais<br>• Padrões globais para instituições financeiras |
+        | **Basileia III** | 2010-2022 | • Aumento na qualidade e quantidade do capital;  • Introdução de buffer contracíclico;  • Limitação da alavancagem;  • Padrões de liquidez globais | • Capital Tier 1 aumentado de 4% para 6%;  • Introdução do índice de alavancagem de 3%;  • Padrões de gestão de risco aprimorados;  • Sistema financeiro global mais resiliente |
+        | **G-SIBs/D-SIBs** | 2011-2012 | • Identificação de bancos sistêmicos globais e domésticos;  • Requisitos adicionais para instituições críticas | • Capital adicional para bancos sistemicamente importantes;  • Planos de recuperação e resolução;  • Supervisão mais intensa |
+        | **FSB** | 2009 | • Coordenação internacional de regulação financeira;  • Monitoramento de riscos sistêmicos;  • Implementação de reformas do G20 | • Maior coordenação regulatória global;  • Revisão por pares das reformas nacionais;  • Padrões globais para instituições financeiras |
         """)
         
         st.markdown("""
@@ -1265,13 +1265,13 @@ elif page == "Lições Aprendidas":
         * **"Explained: The 2008 Financial Crisis"** - Netflix
         """)
     
-    # Rodapé
-    st.markdown("""
-    <div class="footer">
-    Desenvolvido como material didático para aulas sobre crises bancárias e financeiras.<br>
-    © 2023 - Professor de Finanças especializado em crises bancárias
-    </div>
-    """, unsafe_allow_html=True)
+# Rodapé
+st.markdown("""
+<div class="footer">
+Desenvolvido como material didático para aulas sobre crises financeiras.<br>
+© 2025 - Prof. José Américo – Coppead
+</div>
+""", unsafe_allow_html=True)
 
 # Adicionar CSS para melhorar a aparência do aplicativo
 def add_footer_css():
@@ -1286,3 +1286,4 @@ def add_footer_css():
     """, unsafe_allow_html=True)
 
 add_footer_css()
+
