@@ -8,7 +8,7 @@ Um aplicativo Streamlit interativo que oferece uma análise aprofundada da Crise
 
 ## 📊 Demonstração
 
-![Screenshot do Aplicativo](screenshot.png)
+subprime_qr.png
 
 ## 🚀 Características
 
