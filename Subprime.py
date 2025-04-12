@@ -905,7 +905,7 @@ elif page == "Securitização":
         Entidades criadas por bancos para manter ativos fora do balanço. Os SIVs emitiam papel comercial de curto prazo para financiar a compra de ativos de longo prazo como MBS, criando um descasamento de prazos que se mostrou fatal durante a crise.
         
         ### SPV (Special Purpose Vehicles)
-        Entidades legais criadas especificamente para isolar riscos financeiros. Eram fundamentais no processo de securitização, permitindo que os bancos transferissem ativos e seus riscos associados para fora de seus balanços.
+        Entidades legais criadas especificamente para isolar riscos financeiros. Eram fundamentais no processo de securitização, permitindo que os bancos transferissem ativos e seus riscos associados para fora de seus balanços, já que a consolidação desses ativos não era exigida para efeitos regulatórios.
         """)
     
     st.markdown("""
@@ -1016,7 +1016,7 @@ elif page == "Respostas Regulatórias":
         """, unsafe_allow_html=True)
     
     # Evolução dos requisitos de capital
-    st.markdown('<div class="chart-title">Evolução dos Requisitos de Capital Bancário</div>', unsafe_allow_html=True)
+    st.markdown('<div class="chart-title">Evolução dos Requisitos de Capital Bancário (Bancos Sistemicamente Importantes - SIB)</div>', unsafe_allow_html=True)
     
     # Dados para o gráfico de evolução dos requisitos de capital
     basel_years = ["Basileia I\n(1988)", "Basileia II\n(2004)", "Basileia III\n(2010)", "Basileia III\n(Implementação Final)"]
