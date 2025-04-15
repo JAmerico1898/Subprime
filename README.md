@@ -1,4 +1,4 @@
-# Crise Subprime: Cronologia e Impactos Globais
+# Crise Subprime: Cronologia e Impactos Globais (English version below)
 
 ![Aplicativo Streamlit sobre a Crise Subprime](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -135,7 +135,8 @@ An interactive Streamlit application that offers an in-depth analysis of the 200
 
 ## 📊 Demo
 
-![image](https://github.com/user-attachments/assets/5c5cfdb3-3f83-4991-8b70-eb9b91b2bf96)
+![image](https://github.com/user-attachments/assets/d27061dc-d949-4f66-a085-14576fd605cb)
+
 
 ## 🚀 Features
 
